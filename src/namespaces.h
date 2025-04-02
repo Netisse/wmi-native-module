@@ -35,6 +35,7 @@ namespace namespaces
             "root/cimv2",
             "root/cimv2/power",
             "root/wmi",
+	    "root/standardcimv2",
             "root/microsoft/windows/storage"};
 
         return whitelist_lowercase;
